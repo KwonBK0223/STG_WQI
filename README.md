@@ -86,7 +86,7 @@ BibTeX (update authors/years upon acceptance):
   title   = {TBA},
   author  = {Byeongkeun Kwon and Dasom Seong and Jiyun Park and Hyeonjun Hwang and Suhyeon Kim},
   journal = {Ecological Informatics},
-  note    = {Under review. Equal contribution: Byeongkeun Kwon and Dasom Seong. Co-corresponding authors: Hyeonjun Hwang and Suhyeon Kim.},
+  note    = {TBA. Equal contribution: Byeongkeun Kwon and Dasom Seong. Co-corresponding authors: Hyeonjun Hwang and Suhyeon Kim.},
   year    = {TBA}
 }
 ```
